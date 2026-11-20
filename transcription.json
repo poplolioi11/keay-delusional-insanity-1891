@@ -1,7 +1,7 @@
 {
   "source_title": "A Case of Delusional Insanity",
   "title_zh": "愛丁堡妄想病例報告（1891）",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "language": "en",
   "catalogue": "https://archive.org/details/s5912id1397908/page/n256/mode/1up",
   "manifest": "https://archive.org/metadata/s5912id1397908",
@@ -34,9 +34,29 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "CLINICAL NOTES AND CASES.\n\nA Case of Delusional Insanity.* By Dr. KEAY, Medical\nSuperintendent of the Mavisbank Asylum, Edinburgh.\n\nThe following notes of a case of delusional insanity, in\nwhich recovery took place after nine years, may be of interest\nto the members of the Medico-Psychological Association:—\n\nW. J., an unmarried lady, fifty years of age, was admitted into\nMavisbank Asylum on 17th March, 1881. On both sides of her\nfamily there was a well-marked hereditary tendency to mental disease,\nbut no exciting cause was known. Her temperament was somewhat\nreserved and suspicious. She was a woman of considerable intellec-\ntual ability, and well educated, being a good linguist and musician.\n\n* Paper read before the Scotch Meeting of the Med. Psych. Assoc., Nov., 1890.",
+              "kind": "heading",
+              "text": "CLINICAL NOTES AND CASES.",
               "id": "f001-s-u01"
+            },
+            {
+              "kind": "heading",
+              "text": "A Case of Delusional Insanity.* By Dr. KEAY, Medical\nSuperintendent of the Mavisbank Asylum, Edinburgh.",
+              "id": "f001-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "The following notes of a case of delusional insanity, in\nwhich recovery took place after nine years, may be of interest\nto the members of the Medico-Psychological Association:—",
+              "id": "f001-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "W. J., an unmarried lady, fifty years of age, was admitted into\nMavisbank Asylum on 17th March, 1881. On both sides of her\nfamily there was a well-marked hereditary tendency to mental disease,\nbut no exciting cause was known. Her temperament was somewhat\nreserved and suspicious. She was a woman of considerable intellec-\ntual ability, and well educated, being a good linguist and musician.",
+              "id": "f001-s-u04"
+            },
+            {
+              "kind": "footnote",
+              "text": "* Paper read before the Scotch Meeting of the Med. Psych. Assoc., Nov., 1890.",
+              "id": "f001-s-u05"
             }
           ],
           "notes": [
@@ -66,14 +86,32 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "Her bodily health and condition were unsatisfactory. She was of\nsmall stature and feeble muscularity, very anæmic, and a constant\nsufferer from chronic rheumatism.\n\nThe attack of insanity commenced about a year before her admis-\nsion into the asylum. At first her natural suspicious disposition\nseemed to become exaggerated, so as to amount to eccentricity, and\nlater on definite delusions were evolved. There was no excitement.\nAt the time of her admission she had the ordinary delusions of\nsuspicion, believing that her father and other relatives were plotting\nagainst her, and that her food was poisoned. She had also delusions\nof unseen agency, complaining that people directed jets of noxious\ngases at her, and “worked on her” at night by some mysterious\nmeans. For several months she remained free from excitement,\nfirmly believing in the treachery of her relatives, but on moderately\ngood terms with those around her. She then began to suspect indi-\nviduals in the asylum, particularly members of the staff, of trying to\ninjure her, and became most irritable, excitable, and violent. She\naccused people of visiting her at night, sticking darts through her,\nand whipping her, and stated that on awakening from sleep she fre-\nquently felt that she had been beaten all over. Auditory hallucina-\ntions then began to trouble her, and when lying awake she had alter-\ncations with her imaginary enemies, and abused them to her heart’s\ncontent. She continued in this state—irritable, suspicious, abusive,\nand delusive—for about five and a half years, that is, till four years\nago, when she came under my care.\n\nI found her the most troublesome and trying patient in the asylum.\nShe accused members of the staff of assaulting her at night by\nstabbing her with darts, twisting her limbs, and “torturing her on\nthe rack.” She made constant demands for liberty, asserting that\nshe was unjustly detained, there being nothing the matter with her.\nShe was frequently extremely violent, striking and spitting at one\nwithout the slightest provocation. When out walking or driving, or\nwhen the door of her gallery was unlocked she constantly made\nattempts to escape.\n\nThis state of matters was so unsatisfactory that it became an urgent\nnecessity to bring it to an end. First of all everything possible was\ntried to induce her to occupy herself in some way, but this was quite\nunsuccessful, she absolutely refusing to do anything while “in prison,”\nas she called it. It then occurred to me that as her great craving\nwas for liberty, it might probably make her less discontented and un-\nhappy, and consequently less excited and violent, could it be granted\nto her. With this view the experiment was tried of giving her a\nroom to herself in another part of the asylum, she being allowed to\nkeep the key. I relieved her of all supervision by nurses, and gave\nher permission to go in and out of the house and grounds as she\npleased, the only stipulation being that she was to keep her room in\ngood order (thus ensuring her a little occupation), and was not to run",
+              "kind": "running-head",
+              "text": "Clinical Notes and Cases. [April,",
               "id": "f002-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "Her bodily health and condition were unsatisfactory. She was of\nsmall stature and feeble muscularity, very anæmic, and a constant\nsufferer from chronic rheumatism.",
+              "id": "f002-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "The attack of insanity commenced about a year before her admis-\nsion into the asylum. At first her natural suspicious disposition\nseemed to become exaggerated, so as to amount to eccentricity, and\nlater on definite delusions were evolved. There was no excitement.\nAt the time of her admission she had the ordinary delusions of\nsuspicion, believing that her father and other relatives were plotting\nagainst her, and that her food was poisoned. She had also delusions\nof unseen agency, complaining that people directed jets of noxious\ngases at her, and “worked on her” at night by some mysterious\nmeans. For several months she remained free from excitement,\nfirmly believing in the treachery of her relatives, but on moderately\ngood terms with those around her. She then began to suspect indi-\nviduals in the asylum, particularly members of the staff, of trying to\ninjure her, and became most irritable, excitable, and violent. She\naccused people of visiting her at night, sticking darts through her,\nand whipping her, and stated that on awakening from sleep she fre-\nquently felt that she had been beaten all over. Auditory hallucina-\ntions then began to trouble her, and when lying awake she had alter-\ncations with her imaginary enemies, and abused them to her heart’s\ncontent. She continued in this state—irritable, suspicious, abusive,\nand delusive—for about five and a half years, that is, till four years\nago, when she came under my care.",
+              "id": "f002-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "I found her the most troublesome and trying patient in the asylum.\nShe accused members of the staff of assaulting her at night by\nstabbing her with darts, twisting her limbs, and “torturing her on\nthe rack.” She made constant demands for liberty, asserting that\nshe was unjustly detained, there being nothing the matter with her.\nShe was frequently extremely violent, striking and spitting at one\nwithout the slightest provocation. When out walking or driving, or\nwhen the door of her gallery was unlocked she constantly made\nattempts to escape.",
+              "id": "f002-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "This state of matters was so unsatisfactory that it became an urgent\nnecessity to bring it to an end. First of all everything possible was\ntried to induce her to occupy herself in some way, but this was quite\nunsuccessful, she absolutely refusing to do anything while “in prison,”\nas she called it. It then occurred to me that as her great craving\nwas for liberty, it might probably make her less discontented and un-\nhappy, and consequently less excited and violent, could it be granted\nto her. With this view the experiment was tried of giving her a\nroom to herself in another part of the asylum, she being allowed to\nkeep the key. I relieved her of all supervision by nurses, and gave\nher permission to go in and out of the house and grounds as she\npleased, the only stipulation being that she was to keep her room in\ngood order (thus ensuring her a little occupation), and was not to run",
+              "id": "f002-s-u05"
             }
           ],
-          "notes": [
-            "Running head: Clinical Notes and Cases. [April,"
-          ]
+          "notes": []
         }
       ]
     },
@@ -98,14 +136,32 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "away. She refused to make any promise, and in about an hour it was\nreported to me that she had disappeared. She was found on the\nEdinburgh road, and brought back safely. A day or two afterwards\nshe again escaped, and was brought back, and this was repeated a\nthird time. After this, however, she gave us no trouble. Instead of\nleaving the grounds she went to the gardens and busied herself with\nthe flowers, of which she was exceedingly fond. She became tolerably\ncontented and happy, and the excitement gradually diminished, though\nshe was still troubled by delusions of suspicion and of unseen agency,\nwith hallucinations of hearing and of smell, and complained of being\nbadly treated at night. At this period of her illness she exhibited a\ngood deal of insane pride, spending a great deal of time in dressing\nand decorating herself, and appearing at the asylum entertainments\narrayed in what she called a “Grecian costume,” a fantastic attire\nscarcely suited to her age and style of beauty.\n\nHer mental state now remained apparently unchanged for about\ntwo years, when the delusions seemed gradually to lose power. She\ncomplained less about them and the nightly persecutions, and in\nanother six months they had entirely left her. At this point it is\nworth noting, I think, that as the delusions and hallucinations lost\ntheir force, she complained more of rheumatism. The rheumatic pains\nwere not at this time really more severe, but she began to interpret\nthem more correctly. She was discharged recovered in December,\n1889, and up to the present date continues quite well.\n\nIn its mode of origin this case of monomania followed\nquite a common course. The patient had a strong\nhereditary predisposition to insanity, coupled with a\nnaturally reserved and suspicious temperament. She had\nweak bodily health, being thin and anæmic; the brain,\ntherefore, was badly nourished. For years she had been a\nsufferer from chronic rheumatism, the twinges of which in\nher joints and bones when misinterpreted easily became\nblows and twists inflicted by imaginary enemies. It would\nbe impossible to fix the time when such a person becomes\ninsane. Her suspicious disposition becomes more intensely\nso—is exaggerated. Delusions are evolved which she keeps\nto herself as long as she possibly can, being naturally\nreticent. It is only when they become so strong as to over-\ncome her self-control that she expresses them, and is looked\nupon as insane. Cases of delusional insanity such as that\nhere recorded, in which, without a preliminary maniacal\nattack, there is a slow and steady evolution of the disease,\nare looked upon as the most unfavourable of all.\n\nThe dovetailing of the different varieties of monomania,\nso well marked in this case, occurs in a greater or lesser",
+              "kind": "running-head",
+              "text": "1891.] Clinical Notes and Cases.",
               "id": "f003-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "away. She refused to make any promise, and in about an hour it was\nreported to me that she had disappeared. She was found on the\nEdinburgh road, and brought back safely. A day or two afterwards\nshe again escaped, and was brought back, and this was repeated a\nthird time. After this, however, she gave us no trouble. Instead of\nleaving the grounds she went to the gardens and busied herself with\nthe flowers, of which she was exceedingly fond. She became tolerably\ncontented and happy, and the excitement gradually diminished, though\nshe was still troubled by delusions of suspicion and of unseen agency,\nwith hallucinations of hearing and of smell, and complained of being\nbadly treated at night. At this period of her illness she exhibited a\ngood deal of insane pride, spending a great deal of time in dressing\nand decorating herself, and appearing at the asylum entertainments\narrayed in what she called a “Grecian costume,” a fantastic attire\nscarcely suited to her age and style of beauty.",
+              "id": "f003-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "Her mental state now remained apparently unchanged for about\ntwo years, when the delusions seemed gradually to lose power. She\ncomplained less about them and the nightly persecutions, and in\nanother six months they had entirely left her. At this point it is\nworth noting, I think, that as the delusions and hallucinations lost\ntheir force, she complained more of rheumatism. The rheumatic pains\nwere not at this time really more severe, but she began to interpret\nthem more correctly. She was discharged recovered in December,\n1889, and up to the present date continues quite well.",
+              "id": "f003-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "In its mode of origin this case of monomania followed\nquite a common course. The patient had a strong\nhereditary predisposition to insanity, coupled with a\nnaturally reserved and suspicious temperament. She had\nweak bodily health, being thin and anæmic; the brain,\ntherefore, was badly nourished. For years she had been a\nsufferer from chronic rheumatism, the twinges of which in\nher joints and bones when misinterpreted easily became\nblows and twists inflicted by imaginary enemies. It would\nbe impossible to fix the time when such a person becomes\ninsane. Her suspicious disposition becomes more intensely\nso—is exaggerated. Delusions are evolved which she keeps\nto herself as long as she possibly can, being naturally\nreticent. It is only when they become so strong as to over-\ncome her self-control that she expresses them, and is looked\nupon as insane. Cases of delusional insanity such as that\nhere recorded, in which, without a preliminary maniacal\nattack, there is a slow and steady evolution of the disease,\nare looked upon as the most unfavourable of all.",
+              "id": "f003-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "The dovetailing of the different varieties of monomania,\nso well marked in this case, occurs in a greater or lesser",
+              "id": "f003-s-u05"
             }
           ],
-          "notes": [
-            "Running head: 1891.] Clinical Notes and Cases."
-          ]
+          "notes": []
         }
       ]
     },
@@ -130,13 +186,27 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "degree in nearly all, a pure case of any one variety being\ncomparatively uncommon.\n\nThe attack of mania complicating the case is interesting.\nI believe the exciting cause of this was the irksome confine-\nment in the asylum. She was a refined and over-sensitive\ngentlewoman, predisposed to insanity, and it seems reason-\nable enough to suppose that to be ordered about and con-\ntrolled by nurses might have this effect. It is to be noted\nthat when relieved of this confinement and control the acute\nsymptoms abated.\n\nPerhaps the maniacal attack was a fortunate complication,\nand led to the ultimate recovery of the patient from the\nchronic insanity. In delusional insanity there is probably\nan anæmic condition of the cerebral cortex generally, with\nill-nourished cells in the sensory centres, lessened activity,\nand disturbed relations with the other centres. A diseased\nhabit of cell nutrition is set up with irregularity of cell\ndevelopment. The acute maniacal attack takes place. Re-\nlaxation of the blood vessels and hyperæmia of the cortex\noccur with increased activity of cell nutrition and develop-\nment, and when the acute symptoms subside the centres are\nleft in a condition more nearly approaching the normal.\nThe diseased habit has been, in short, changed by the stimu-\nlation of the cells affected. The same thing would probably\nhave occurred had the patient been attacked by an idiopathic\nfever.",
+              "kind": "running-head",
+              "text": "Clinical Notes and Cases. [April,",
               "id": "f004-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "degree in nearly all, a pure case of any one variety being\ncomparatively uncommon.",
+              "id": "f004-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "The attack of mania complicating the case is interesting.\nI believe the exciting cause of this was the irksome confine-\nment in the asylum. She was a refined and over-sensitive\ngentlewoman, predisposed to insanity, and it seems reason-\nable enough to suppose that to be ordered about and con-\ntrolled by nurses might have this effect. It is to be noted\nthat when relieved of this confinement and control the acute\nsymptoms abated.",
+              "id": "f004-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "Perhaps the maniacal attack was a fortunate complication,\nand led to the ultimate recovery of the patient from the\nchronic insanity. In delusional insanity there is probably\nan anæmic condition of the cerebral cortex generally, with\nill-nourished cells in the sensory centres, lessened activity,\nand disturbed relations with the other centres. A diseased\nhabit of cell nutrition is set up with irregularity of cell\ndevelopment. The acute maniacal attack takes place. Re-\nlaxation of the blood vessels and hyperæmia of the cortex\noccur with increased activity of cell nutrition and develop-\nment, and when the acute symptoms subside the centres are\nleft in a condition more nearly approaching the normal.\nThe diseased habit has been, in short, changed by the stimu-\nlation of the cells affected. The same thing would probably\nhave occurred had the patient been attacked by an idiopathic\nfever.",
+              "id": "f004-s-u04"
             }
           ],
           "notes": [
-            "Running head: Clinical Notes and Cases. [April,",
             "This article ends at the short rule following “fever.” The separate Goodall article and its plate are outside scope."
           ]
         }
